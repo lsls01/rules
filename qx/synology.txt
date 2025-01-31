@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/synology
+
+host-suffix, gofile.me, proxy
+host-suffix, quickconnect.cn, proxy
+host-suffix, quickconnect.to, proxy
+host-suffix, synology.cn, proxy
+host-suffix, synology.com, proxy
+host-suffix, synologydownload.com, proxy
+host-suffix, synologyupdate.com, proxy

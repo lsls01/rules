@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-blog-cn
+
+host-suffix, 114blog.com, proxy
+host-suffix, 4thworkshop.cn, proxy
+host-suffix, 4thworkshop.com, proxy
+host-suffix, huangyuhui.net, proxy
+host-suffix, mryys.cn, proxy
+host-suffix, mryys.com, proxy

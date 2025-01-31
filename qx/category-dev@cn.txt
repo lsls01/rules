@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-dev
+
+host, cdn.ampproject.org, proxy
+host, firebase-settings.crashlytics.com, proxy
+host-suffix, cdn.jetbrains.com, proxy
+host-suffix, download-cdn.jetbrains.com.cn, proxy
+host-suffix, microsoftreactor.cn, proxy
+host-suffix, microsoftreactor.com.cn, proxy
+host-suffix, reactorms.com.cn, proxy
+host-suffix, researchkit.cn, proxy
+host-suffix, researchkit.com.cn, proxy
+host-suffix, swiftui.cn, proxy
+host-suffix, swiftui.com.cn, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/supercell
+
+host-suffix, supercell.com, proxy
+host-suffix, supercell.helpshift.com, proxy
+host-suffix, supercell.net, proxy
